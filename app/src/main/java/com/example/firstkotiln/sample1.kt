@@ -14,7 +14,7 @@ fun checkNum(score : Int) {
         2, 3 -> println("this is 2 or 3")
     }
 
-    var b = when(score) {
+    var b = when(score ) {
         1 -> 1
         2 -> 2
         else -> 3
