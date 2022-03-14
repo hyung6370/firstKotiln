@@ -14,4 +14,7 @@ fun main() {
 
     println(a * a)
     println(b * b)
+
+    //이건 샘플2도 아니고 샘플3도 아니고 샘플 2.5라 합시다!
+
 }

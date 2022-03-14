@@ -43,7 +43,7 @@ fun hi() {
 
     b = 100
 
-    val c = 100     //int 생략
+    val c = 100     //int 생
     var d = 100         //int 생략
 
     var e : String
