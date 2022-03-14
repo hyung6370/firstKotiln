@@ -16,6 +16,12 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="환영합니다"
+        android:gravity="center"/>
+
     <ToggleButton
         android:id="@+id/resultButton"
         android:layout_width="match_parent"
